@@ -82,4 +82,37 @@ Designed with **clean UI, responsive layout, and scalable architecture**.
 
 ## 📁 Project Structure
 
+Real-Estate-App/
+│
+├── api/ # Backend
+│ ├── app.js
+│ ├── routes/
+│ ├── package.json
+│ └── package-lock.json
+│
+├── client/ # Frontend
+│ ├── index.html
+│ ├── src/
+│ │ ├── App.jsx
+│ │ ├── main.jsx
+│ │ ├── index.scss
+│ │ ├── responsive.scss
+│ │ ├── routes/
+│ │ ├── context/
+│ │ └── lib/
+│ ├── vite.config.js
+│ ├── package.json
+│ └── package-lock.json
+│
+└── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
